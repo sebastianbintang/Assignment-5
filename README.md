@@ -29,7 +29,7 @@ Campus Club Finder is a web application that helps students discover, explore, a
 ### 1. **Clone the repository**
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/sebastianbintang/Assignment-5.git>
 cd campus-club-finder/Assignment-5
 ```
 
