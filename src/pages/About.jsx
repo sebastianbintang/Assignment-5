@@ -8,10 +8,10 @@ const About = () => (
     </p>
     <h3 className="text-lg font-semibold mb-1">Tech Stack:</h3>
     <ul className="list-disc list-inside">
-      <li>React (functional components & hooks)</li>
+      <li>React</li>
       <li>React Router</li>
       <li>Tailwind CSS</li>
-      <li>LocalStorage for persistence</li>
+      <li>Vite</li>
     </ul>
   </div>
 );
