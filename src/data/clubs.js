@@ -2,7 +2,7 @@ export const clubs = [
   {
     id: 'robotics',
     name: 'Robotics Club',
-    image: '/images/robotics.jpg',
+    image: '/images/robotics.png',
     shortDescription: 'Build and code robots with fellow enthusiasts.',
     description: 'Learn about robotics, compete in competitions, and join hands-on workshops every month!',
     events: [
