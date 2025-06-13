@@ -81,8 +81,6 @@ Assignment-5/
 
 - **Add Clubs:** Edit `src/data/clubs.js` to add or update clubs.
 - **Add Images:** Place new images in `public/images/` and update the `image` path in club data.
-- **Add Icons:** Use [Heroicons](https://heroicons.com/) SVGs directly in your components.
-
 ---
 
 ## 📄 License
